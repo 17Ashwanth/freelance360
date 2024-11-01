@@ -8,7 +8,7 @@ function Benefits() {
         <div className="container mt-5">
           <div className="d-flex flex-column align-items-center mb-4">
             <form className="d-flex mb-4" role="search">
-              <button
+              <div
                 className="btn btn-outline-light me-5 px-4 py-3"
                 type="submit"
                 style={{
@@ -19,7 +19,7 @@ function Benefits() {
                 }}
               >
                 Benefits
-              </button>
+              </div>
             </form>
             <div className="text-center text-white">
               <h1 className="text-start text-white" style={{ fontWeight: 800 }}>

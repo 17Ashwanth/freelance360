@@ -77,12 +77,21 @@ const Insights = () => {
                 <div className="container mt-5">
                     <div className="d-flex flex-column align-items-center mb-4">
                         <form className="d-flex mb-4" role="search">
-                            <button className="btn btn-outline-warning me-5" type="submit" style={{ borderRadius: '20px', padding: '10px 30px' }}>
+                            <div
+                                className="btn btn-outline-light me-5 px-4 py-3"
+                                type="submit"
+                                style={{
+                                    borderColor: 'orange',
+                                    color: 'orange',
+                                    borderRadius: '20px',
+                                    fontSize: '1.25rem'
+                                }}
+                            >
                                 Insights
-                            </button>
+                            </div>
                         </form>
                         <div className="text-center text-white mb-5">
-                            <h1 style={{fontWeight:800}}>
+                            <h1 style={{ fontWeight: 800 }}>
                                 <div>Frequently asked </div>
                                 <div>Questions</div>
                             </h1>

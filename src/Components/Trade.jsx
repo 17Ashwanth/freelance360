@@ -7,7 +7,7 @@ function Trade() {
                 <div className="container">
                     <div className="d-flex flex-column align-items-center mb-4">
                         <form className="d-flex" role="search">
-                            <button
+                            <div
                                 className="btn btn-outline-light me-5 px-4 py-3"
                                 type="submit"
                                 style={{
@@ -18,7 +18,7 @@ function Trade() {
                                 }}
                             >
                                 Trade
-                            </button>
+                            </div>
                         </form>
                     </div>
 
@@ -77,7 +77,7 @@ function Trade() {
                     </div>
 
                     <div className="d-flex justify-content-center mt-3" role="search">
-                        <button
+                        <a href='https://github.com/17Ashwanth' target='blank'
                             className="btn px-4 py-3"
                             type="submit"
                             style={{
@@ -90,7 +90,7 @@ function Trade() {
                         >
                             See all works
                             <i className="fa-solid fa-angle-right ms-2" style={{ color: 'black' }}></i>
-                        </button>
+                        </a>
                     </div>
                 </div>
             </section>
