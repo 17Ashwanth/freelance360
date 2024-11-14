@@ -21,8 +21,8 @@ function App() {
     <Benefits/>
     <Service/>
     <Price/>
-    <Insights/>
     <Reviews/>
+    <Insights/>
     <AboveFt/>
     <Footer/>
     </>

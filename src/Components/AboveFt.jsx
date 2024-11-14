@@ -13,7 +13,7 @@ function AboveFt() {
                         <div className="d-flex justify-content-center mt-3" role="search">
                             <form className="d-flex" role="search">
                                 <a
-                                    href="mailto:ashwanthcheleri@gmail.com"
+                                    href="mailto:freelance360services@gmail.com"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="btn btn-outline-warning me-5"

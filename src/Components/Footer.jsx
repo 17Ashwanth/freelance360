@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedinIn, faFacebook, faInstagram, faTwitter, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedinIn, faFacebook, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () => {
     const currentYear = new Date().getFullYear();
@@ -17,13 +17,13 @@ const Footer = () => {
                             <a href="https://www.linkedin.com/in/fawaznp1/" target='blank' className="text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style={{ width: '40px', height: '40px' }}>
                                 <FontAwesomeIcon icon={faLinkedinIn} size="lg" />
                             </a>
-                            <a href="https://www.facebook.com/share/1W4g3fMib6/" target='blank' className="text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style={{ width: '40px', height: '40px' }}>
+                            <a href="https://www.facebook.com/share/p/19Tqpdztz7/?mibextid=WC7FNe" target='blank' className="text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style={{ width: '40px', height: '40px' }}>
                                 <FontAwesomeIcon icon={faFacebook} size="lg" />
                             </a>
-                            <a href="https://wa.me/8547150181" target="_blank" className="text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style={{ width: '40px', height: '40px' }}>
-                                <FontAwesomeIcon icon={faWhatsapp} size="lg" />
+                            <a href="https://www.instagram.com/freelance___360/profilecard/?igsh=MWdpcDhhZnk2d3dkdg==" target="_blank" className="text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style={{ width: '40px', height: '40px' }}>
+                                <FontAwesomeIcon icon={faInstagram} size="lg" />
                             </a>
-                            <a href="https://x.com/fawaznp1?s=09" target='blank' className="text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style={{ width: '40px', height: '40px' }}>
+                            <a href="https://x.com/freelance_360/status/1856397625542492453?s=46" target='blank' className="text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style={{ width: '40px', height: '40px' }}>
                                 <FontAwesomeIcon icon={faTwitter} size="lg" />
                             </a>
                         </div>

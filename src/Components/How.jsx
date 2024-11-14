@@ -48,9 +48,9 @@ function How() {
                                     }}>
                                     1
                                 </button>
-                                <h3 className="mt-3 ms-2" style={{ fontWeight: 800 }}>Subscribe to a plan</h3>
+                                <h3 className="mt-3 ms-2" style={{ fontWeight: 800 }}>Discuss the Plan</h3>
                                 <p className="ms-2" style={{ color: '#979595', fontWeight: 500 }}>
-                                    Select a plan that fits your needs and <br /> jump on an onboarding call.
+                                   First discuss the outline of the project <br /> that fits your needs
                                 </p>
                             </div>
                         </div>
@@ -73,9 +73,9 @@ function How() {
                                     }}>
                                     2
                                 </button>
-                                <h3 className="mt-3 ms-2" style={{ fontWeight: 800 }}>Add a task</h3>
+                                <h3 className="mt-3 ms-2" style={{ fontWeight: 800 }}>Choose the Needs</h3>
                                 <p className="ms-2" style={{ color: '#979595', fontWeight: 500 }}>
-                                    List your first task on our shared Trello <br /> board by specifying the requirements.
+                                    Choose the technologies and needs <br /> by specifying the requirements.
                                 </p>
                             </div>
                         </div>
@@ -98,9 +98,9 @@ function How() {
                                     }}>
                                     3
                                 </button>
-                                <h3 className="mt-3 ms-2" style={{ fontWeight: 800 }}>Enjoy Result</h3>
+                                <h3 className="mt-3 ms-2" style={{ fontWeight: 800 }}>Start the Work</h3>
                                 <p className="ms-2" style={{ color: '#979595', fontWeight: 500 }}>
-                                    Receive your complete task in 2-4 days.
+                                    Receive your complete project in 1-2 weeks.
                                 </p>
                             </div>
                         </div>

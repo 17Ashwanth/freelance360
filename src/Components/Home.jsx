@@ -29,7 +29,7 @@ function Home() {
                         Elevate your brand with our expert freelance team, Full-service solutions for all your business needs
                     </p>
                     <div className="d-flex justify-content-center" role="search">
-                        <a href="https://wa.me/8547150181" target="_blank" rel="noreferrer" className="btn"
+                        <a href="mailto:freelance360services@gmail.com" target="_blank" rel="noreferrer" className="btn"
                             style={{
                                 backgroundColor: 'orange', color: 'black', borderRadius: '20px', border: 'none',
                                 textDecoration: 'none', fontSize: '1.25rem', padding: '10px 20px'

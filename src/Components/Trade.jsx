@@ -77,7 +77,7 @@ function Trade() {
                     </div>
 
                     <div className="d-flex justify-content-center mt-3" role="search">
-                        <a href='https://github.com/17Ashwanth' target='blank'
+                        <a href='https://www.instagram.com/freelance___360/profilecard/?igsh=MWdpcDhhZnk2d3dkdg==' target='blank'
                             className="btn px-4 py-3"
                             type="submit"
                             style={{

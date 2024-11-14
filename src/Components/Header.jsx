@@ -29,7 +29,7 @@ function Header() {
                                 <a className="nav-link active text-white" aria-current="page" href="#services">Services</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active text-white" aria-current="page" href="#pricing">Pricing</a>
+                                <a className="nav-link active text-white" aria-current="page" href="#tech">tech</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#reviews">Testimonials</a>
@@ -37,7 +37,7 @@ function Header() {
                         </ul>
                     </div>
                     <form className="d-flex" role="search">
-                        <a href="mailto:ashwanthcheleri@gmail.com" target="_blank" rel="noreferrer" className="btn btn-outline-warning me-5" style={{ borderColor: 'orange', color: 'white', borderRadius: '20px', textDecoration: 'none' }}>
+                        <a href="mailto:freelance360services@gmail.com" target="_blank" rel="noreferrer" className="btn btn-outline-warning me-5" style={{ borderColor: 'orange', color: 'white', borderRadius: '20px', textDecoration: 'none' }}>
                             Book a Demo <i className="fa-solid fa-angle-right ms-2" style={{ color: 'orange' }}></i>
                         </a>
                     </form>
