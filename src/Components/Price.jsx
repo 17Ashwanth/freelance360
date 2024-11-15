@@ -22,8 +22,8 @@ function Price() {
                         </form>
                         <div className="text-center text-white">
                             <h1 className="text-start" style={{ fontWeight: 800 }}>
-                                <div>Choose the relevant technologies we offer,</div>
-                                <div>grow and fasten your project</div>
+                                <div>Choose relevant technologies</div>
+                                <div>to grow and speed up your project.</div>
                             </h1>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ function Price() {
                             <div className="card bg-dark text-white" style={{ width: '100%', padding: '15px' }}>
                                 <div className="card-body">
                                     <h4 style={{ fontWeight: 500 }} className="card-title">WEBSITE DEVELOPMENT</h4>
-                                    <p style={{ fontWeight: 500 }} className="mt-3">What's Included:</p>
+                                    <p style={{ fontWeight: 500 }} className="mt-3">Technologies we offer:</p>
                                     <ul className="list-unstyled">
                                         <li style={{ fontWeight: 500 }} className="d-flex align-items-center"><i className="fa-solid fa-check" style={{ color: 'orange' }}></i>&nbsp;HTML/CSS</li>
                                         <li style={{ fontWeight: 500 }} className="d-flex align-items-center"><i className="fa-solid fa-check" style={{ color: 'orange' }}></i>&nbsp;JavaScript</li>
@@ -47,7 +47,7 @@ function Price() {
                                     </ul>
                                     <div className="d-flex flex-column align-items-center mt-4">
                                         <a href='mailto:freelance360services@gmail.com' target='_blank' rel="noopener noreferrer" className="btn btn-outline-secondary mt-2" style={{ width: '100%', maxWidth: '200px', borderRadius: '20px', padding: '10px' }}>
-                                            Book a Demo
+                                        Connect Now!
                                         </a>
                                     </div>
                                 </div>
@@ -57,7 +57,7 @@ function Price() {
                             <div className="card bg-dark text-white" style={{ width: '100%', padding: '15px' }}>
                                 <div className="card-body">
                                     <h4 style={{ fontWeight: 500 }} className="card-title">MOBILE APP DEVELOPMENT</h4>
-                                    <p style={{ fontWeight: 500 }} className="mt-3">What's Included:</p>
+                                    <p style={{ fontWeight: 500 }} className="mt-3">Technologies we offer:</p>
                                     <ul className="list-unstyled">
                                         <li style={{ fontWeight: 500 }} className="d-flex align-items-center"><i className="fa-solid fa-check" style={{ color: 'orange' }}></i>&nbsp;Java</li>
                                         <li style={{ fontWeight: 500 }} className="d-flex align-items-center"><i className="fa-solid fa-check" style={{ color: 'orange' }}></i>&nbsp;Python</li>
@@ -72,7 +72,7 @@ function Price() {
                                     </ul>
                                     <div className="d-flex flex-column align-items-center mt-4">
                                         <a href='mailto:freelance360services@gmail.com' target='_blank' rel="noopener noreferrer" className="btn btn-outline-secondary mt-2" style={{ width: '100%', maxWidth: '200px', borderRadius: '20px', padding: '10px' }}>
-                                            Book a Demo
+                                        Connect Now!
                                         </a>
                                     </div>
                                 </div>

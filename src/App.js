@@ -17,10 +17,11 @@ function App() {
     <Header/>
     <Home/>
     <How/>
-    <Trade/>
+    
     <Benefits/>
     <Service/>
     <Price/>
+    <Trade/>
     <Reviews/>
     <Insights/>
     <AboveFt/>

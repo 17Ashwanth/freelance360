@@ -5,7 +5,7 @@ function Home() {
     return (
         <>
             <section id="home" className="d-flex flex-column justify-content-center align-items-center home-section mb-5">
-                <form className="d-flex mt-5" role="search">
+                {/* <form className="d-flex mt-5" role="search">
                     <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fbusiness.google.com%2Freviews&followup=https%3A%2F%2Fbusiness.google.com%2Freviews&ifkv=AcMMx-d4kmExVTXG-pUSlpCP68YVNoItDNlKTFP4wvuhnydybJ2oAjvet1ygU4wOKhavdnon7bH1sQ&passive=1209600&service=lbc&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S590271420%3A1730264548987082&ddm=0"
                         target="_blank" rel="noreferrer" className="btn btn-outline-secondary d-flex align-items-center justify-content-center"
                         type="submit" style={{ borderRadius: '20px' }}>
@@ -17,19 +17,19 @@ function Home() {
                             11 reviews
                         </span>
                     </a>
-                </form>
+                </form> */}
 
                 <div className="text-center text-white mt-2 mb-4">
                     <h1>
-                        <div style={{ fontWeight: 800 }}>Collaborate with expert freelancers</div>
-                        <div style={{ fontWeight: 800 }}>for all your project needs</div>
-                        <div style={{ fontWeight: 800 }}>Transforming ideas into reality.</div>
+                        <div style={{ fontWeight: 800 }}>Collaborate with expert freelancers to bring your ideas to life!</div>
+                        {/* <div style={{ fontWeight: 800 }}>for all your project needs</div>
+                        <div style={{ fontWeight: 800 }}>Transforming ideas into reality.</div> */}
                     </h1>
                     <p className="mt-2" style={{ fontWeight: 500 }}>
                         Elevate your brand with our expert freelance team, Full-service solutions for all your business needs
                     </p>
                     <div className="d-flex justify-content-center" role="search">
-                        <a href="mailto:freelance360services@gmail.com" target="_blank" rel="noreferrer" className="btn"
+                        <a href="mailto:freelance360services@gmail.com" target="_blank" rel="noreferrer" className="btn mt-3"
                             style={{
                                 backgroundColor: 'orange', color: 'black', borderRadius: '20px', border: 'none',
                                 textDecoration: 'none', fontSize: '1.25rem', padding: '10px 20px'
@@ -63,7 +63,7 @@ function Home() {
                                 Through tailored solutions and collaborative approaches, we bring brands to life and drive
                                 meaningful connections with their audiences.
                             </p>
-                            <p className="mt-4" style={{ fontWeight: 800 }}>FAWAZ NP, ASHWANTH C, MOHAMMEDH DILSHAD</p>
+                            <p className="mt-2" style={{ fontWeight: 800 }}>FAWAZ NP, ASHWANTH C, MOHAMMEDH DILSHAD</p>
                             <p style={{ fontWeight: 800 }}>Founders</p>
                         </div>
                     </div>

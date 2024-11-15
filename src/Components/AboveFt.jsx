@@ -19,7 +19,7 @@ function AboveFt() {
                                     className="btn btn-outline-warning me-5"
                                     style={{ borderColor: 'orange', color: 'white', borderRadius: '20px', textDecoration: 'none' }}
                                 >
-                                    Book a Demo
+                                    Try it now!
                                     <i className="fa-solid fa-angle-right ms-2" style={{ color: 'orange' }}></i>
                                 </a>
                             </form>

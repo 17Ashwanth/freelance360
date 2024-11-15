@@ -76,7 +76,7 @@ function Reviews() {
                                                 <img src="https://www.topmediai.com/micro/passport-photo-maker/assets/bigger_pic3-38c3c289.png" alt="person 3" className="img-fluid" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                                             </div>
                                             <div>
-                                                <h3 style={{fontWeight:500}} className="mb-2 text-white">- Priya Jain</h3>
+                                                <h3 style={{fontWeight:500}} className="mb-2 text-white">Priya Jain</h3>
                                                 <h5 style={{fontWeight:500}} className="mb-2 text-white">Small Business Owner</h5>
                                             </div>
                                         </div>

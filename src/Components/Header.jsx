@@ -1,7 +1,16 @@
-import React from 'react';
+import React,{ useState } from 'react';
 import './Header.css';
 
 function Header() {
+   /*  const [theme, setTheme] = useState('light');
+
+    const toggleTheme = () => {
+        setTheme((prevTheme) => {
+            const newTheme = prevTheme === 'light' ? 'dark' : 'light';
+            document.body.className = newTheme; // Change body class to apply the theme globally
+            return newTheme;
+        });
+    }; */
     return (
         <>
             <nav className="navbar navbar-expand-lg fixed-top" style={{ backgroundColor: 'black', zIndex: 1000 }}>
@@ -19,9 +28,7 @@ function Header() {
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#home">Home</a>
                             </li>
-                            <li className="nav-item">
-                                <a className="nav-link active text-white" aria-current="page" href="#trade">Trade</a>
-                            </li>
+                           
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#benefits">Benefits</a>
                             </li>
@@ -29,19 +36,29 @@ function Header() {
                                 <a className="nav-link active text-white" aria-current="page" href="#services">Services</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active text-white" aria-current="page" href="#tech">tech</a>
+                                <a className="nav-link active text-white" aria-current="page" href="#tech">Tech</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link active text-white" aria-current="page" href="#trade">Trade</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#reviews">Testimonials</a>
                             </li>
                         </ul>
                     </div>
-                    <form className="d-flex" role="search">
+                    {/* <form className="d-flex" role="search">
                         <a href="mailto:freelance360services@gmail.com" target="_blank" rel="noreferrer" className="btn btn-outline-warning me-5" style={{ borderColor: 'orange', color: 'white', borderRadius: '20px', textDecoration: 'none' }}>
                             Book a Demo <i className="fa-solid fa-angle-right ms-2" style={{ color: 'orange' }}></i>
                         </a>
-                    </form>
+                    </form> */}
                 </div>
+               {/*  <button 
+                        onClick={toggleTheme} 
+                        className="btn btn-outline-light me-5" 
+                        style={{ borderColor: 'orange', color: 'white', borderRadius: '20px' }}
+                    >
+                        <i className={`fa-solid ${theme === 'light' ? 'fa-moon' : 'fa-sun'}`}></i>
+                    </button> */}
             </nav>
         </>
     )

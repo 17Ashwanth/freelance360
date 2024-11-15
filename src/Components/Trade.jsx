@@ -17,7 +17,7 @@ function Trade() {
                                     fontSize: '1.25rem'
                                 }}
                             >
-                                Trade
+                                Trade & Stock
                             </div>
                         </form>
                     </div>
