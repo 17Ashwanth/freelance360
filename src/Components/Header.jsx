@@ -44,9 +44,7 @@ function Header() {
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#reviews">Testimonials</a>
                             </li>
-                            <li className="nav-item">
-                                <a className="nav-link active text-white" aria-current="page" href="#reviews">Test</a>
-                            </li>
+                           
                         </ul>
                     </div>
                     {/* <form className="d-flex" role="search">
