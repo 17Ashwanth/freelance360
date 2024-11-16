@@ -37,12 +37,15 @@ function Header() {
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#tech">Tech</a>
-                            </li>
+                            </li><p></p>
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#trade">Trade</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#reviews">Testimonials</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link active text-white" aria-current="page" href="#reviews">Test</a>
                             </li>
                         </ul>
                     </div>
