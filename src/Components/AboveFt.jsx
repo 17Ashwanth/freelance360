@@ -5,7 +5,7 @@ function AboveFt() {
         <>
             <section className="d-flex flex-column justify-content-center align-items-center mt-5">
                 <div className="container mt-5">
-                    <div className="text-center text-white mt-2 mb-4">
+                    <div className="text-center text-white ">
                         <h1 style={{fontWeight:800}}>
                             <div>Need More Clarity?</div>
                             <div>Get in Touch!</div>

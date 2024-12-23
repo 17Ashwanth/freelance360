@@ -5,19 +5,7 @@ function Home() {
     return (
         <>
             <section id="home" className="d-flex flex-column justify-content-center align-items-center home-section mb-5">
-                {/* <form className="d-flex mt-5" role="search">
-                    <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fbusiness.google.com%2Freviews&followup=https%3A%2F%2Fbusiness.google.com%2Freviews&ifkv=AcMMx-d4kmExVTXG-pUSlpCP68YVNoItDNlKTFP4wvuhnydybJ2oAjvet1ygU4wOKhavdnon7bH1sQ&passive=1209600&service=lbc&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S590271420%3A1730264548987082&ddm=0"
-                        target="_blank" rel="noreferrer" className="btn btn-outline-secondary d-flex align-items-center justify-content-center"
-                        type="submit" style={{ borderRadius: '20px' }}>
-                        5.0
-                        <span className="ms-2" style={{ color: 'orange' }}>
-                            ★★★★★
-                        </span>
-                        <span className="ms-2">
-                            11 reviews
-                        </span>
-                    </a>
-                </form> */}
+                
 
                 <div className="text-center text-white mt-2 mb-4">
                     <h1>

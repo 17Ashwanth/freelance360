@@ -17,9 +17,9 @@ function App() {
     <Header/>
     <Home/>
     <How/>
-    
-    <Benefits/>
     <Service/>
+    <Benefits/>
+    
     <Price/>
     <Trade/>
     <Reviews/>
