@@ -1,5 +1,7 @@
 import React from 'react'
-import About from '../Assests/about us.png'
+import About from '../Assests/about us.png';
+import image1 from '../images/image2.png';
+import adspace from '../images/image3.jpg';
 
 function Home() {
     return (
@@ -27,6 +29,8 @@ function Home() {
                         </a>
                     </div>
                 </div>
+
+
 
                 <div className="container mt-5">
                     <div className="row align-items-center">
@@ -57,6 +61,20 @@ function Home() {
                     </div>
                 </div>
             </section>
+            
+{/*  <div className="container mt-5">
+                    <div className="row align-items-center">
+                        <div className="col-md-6 col-lg-12">
+                            <div className="card bg-dark text-white">
+                                <img src={adspace}
+                                    alt="About Us Image" className="img-fluid rounded"
+                                    style={{ width: '100%', height: '100px', objectFit: 'cover' }}
+                                />
+                            </div>
+                            </div>  
+                            </div>
+                              </div> */}
+
         </>
     )
 }

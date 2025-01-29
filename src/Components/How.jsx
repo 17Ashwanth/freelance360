@@ -100,7 +100,7 @@ function How() {
                                 </button>
                                 <h3 className="mt-3 ms-2" style={{ fontWeight: 800 }}>Start the Work</h3>
                                 <p className="ms-2" style={{ color: '#979595', fontWeight: 500 }}>
-                                    Receive your complete project in 1-2 weeks.
+                                    Receive your complete project in a short time.
                                 </p>
                             </div>
                         </div>
