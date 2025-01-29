@@ -22,7 +22,7 @@ function Modal1() {
     >
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">
-          Ad
+          Ad 
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
