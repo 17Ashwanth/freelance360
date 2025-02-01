@@ -46,7 +46,7 @@ function Home() {
                         <div className="col-md-6 text-white">
                             <h1 className="display-4 mb-3" style={{ fontWeight: 'bold' }}>About Us</h1>
                             <p className="lead" style={{ fontWeight: 800 }}>
-                                Welcome to Freelance 360, a global collective of innovative designers and developers. We
+                                Welcome to Freelance 360, a Global collective of innovative designers and developers. We
                                 partner with brands of all sizes to craft unforgettable, user-centric, and visually stunning
                                 experiences that merge creative vision with technical expertise.
                             </p>
